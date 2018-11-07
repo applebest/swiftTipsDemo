@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:enumerate/enumerate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:class-cluster/class-cluster.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:kvo/kvo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:gcd-delay/gcd-delay.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:where/where.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:reflect/reflect.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:regex/regex.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:init/init.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:subscript/subscript.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:func-params/func-params.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:operator/operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:swiftTipe4/swiftTipe4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Sequence/Sequence.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:mutating/mutating.xcodeproj">
+   </FileRef>
+</Workspace>
